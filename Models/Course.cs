@@ -16,6 +16,6 @@ namespace ElearnBackend.Models
         public string InstructorName { get; set; } = string.Empty;
         
         [Column(TypeName = "json")]
-        public string Lessons { get; set; } = "[]";  // JSON Array of lessons
+        public string Lessons { get; set; }  = new List<string>();  // JSON Array of lessons
     }
 }
