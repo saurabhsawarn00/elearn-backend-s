@@ -2724,11 +2724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevOpsInsiders\\Personal\\Elearning\\ElearnBackend\\ElearnBackend.csproj",
+      "projectUniqueName": "C:\\DevOpsInsiders\\elearning-project\\elearn-backend\\ElearnBackend.csproj",
       "projectName": "ElearnBackend",
-      "projectPath": "C:\\DevOpsInsiders\\Personal\\Elearning\\ElearnBackend\\ElearnBackend.csproj",
+      "projectPath": "C:\\DevOpsInsiders\\elearning-project\\elearn-backend\\ElearnBackend.csproj",
       "packagesPath": "C:\\Users\\aades\\.nuget\\packages\\",
-      "outputPath": "C:\\DevOpsInsiders\\Personal\\Elearning\\ElearnBackend\\obj\\",
+      "outputPath": "C:\\DevOpsInsiders\\elearning-project\\elearn-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aades\\AppData\\Roaming\\NuGet\\NuGet.Config"

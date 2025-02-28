@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBrhlrsV4zQ=",
+  "dgSpecHash": "Q5ROw3sRzL4=",
   "success": true,
-  "projectFilePath": "C:\\DevOpsInsiders\\Personal\\Elearning\\ElearnBackend\\ElearnBackend.csproj",
+  "projectFilePath": "C:\\DevOpsInsiders\\elearning-project\\elearn-backend\\ElearnBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aades\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aades\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.13\\microsoft.aspnetcore.openapi.8.0.13.nupkg.sha512",
