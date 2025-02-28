@@ -51,14 +51,6 @@ dotnet restore
 
 ---
 
-### **5️⃣ Run Database Migrations**
-```sh
-dotnet ef database update
-```
-*(Make sure MySQL is running before executing this command!)*
-
----
-
 ### **6️⃣ Run the Application**
 ```sh
 dotnet run
