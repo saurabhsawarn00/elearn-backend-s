@@ -66,19 +66,6 @@ dotnet build --configuration Release
 
 ---
 
-### **6️⃣ Run the Application**
-
-```sh
-dotnet run
-```
-
-The API will start at:
-
-- **[http://localhost:5000](http://localhost:5000)** (HTTP)
-- **[https://localhost:5001](https://localhost:5001)** (HTTPS)
-
----
-
 ## 🏗️ Build and Publish
 
 ### **1️⃣ Build the Application**
