@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ElearnBackend.props" />
+</Project>
